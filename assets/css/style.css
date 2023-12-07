@@ -24,11 +24,14 @@ body {
 
     /*Generic Styles*/
     color: #3a3a3a;
+    font-family: 'Varela Round', sans-serif;
 }
 
 /*Header*/
 header {
     background-color: #39FF39;
+    font-family: 'Oswald', sans-serif;
+    font-size: 32px;
 }
 
 /*Main*/
