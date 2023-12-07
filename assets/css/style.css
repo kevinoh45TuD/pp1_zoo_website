@@ -1,21 +1,40 @@
+/*
+    Color-Palette
+    Light-Green: #85FF85
+    Green: #39FF39
+    Dark-Green: #005200
+    Yellow: #DAB52E
+*/
+
 /*Asterisk to override defaults*/
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
+/*General*/
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+    /*Generic Styles*/
+    color: #3a3a3a;
+}
+
 /*Header*/
 header {
-    background-color: lightcoral;
+    background-color: #39FF39;
 }
 
 /*Main*/
 main {
-    background-color: lightblue;
+    background-color: #85FF85;
+    flex: 1 0 auto;
 }
 
 /*Footer*/
 footer {
-    background-color: lightgreen;
+    background-color: #DAB52E;
 }
