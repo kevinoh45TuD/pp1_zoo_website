@@ -41,10 +41,43 @@ header {
 
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
 h1 {
     font-family: 'Oswald', sans-serif;
-    font-size: 32px;
+
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+    color: #000;
+
 }
+
+/*Nav Bar*/
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+#menu>li {
+    margin-bottom: 1em;
+    text-align: center;
+
+    background-color: #005200;
+    color: #FFF;
+}
+
+.active {
+    border: 1px solid #000;
+    background-color: #DAB52E;
+    padding: 2px;
+}
+
+
 
 /*Main*/
 main {
