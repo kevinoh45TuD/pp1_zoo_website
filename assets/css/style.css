@@ -6,6 +6,9 @@
     Yellow: #DAB52E
 */
 
+/*Google Font*/
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Varela+Round&display=swap');
+
 /*Asterisk to override defaults*/
 * {
     padding: 0;
