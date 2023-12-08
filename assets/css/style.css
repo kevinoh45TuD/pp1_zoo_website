@@ -77,7 +77,17 @@ h1 {
     padding: 2px;
 }
 
+nav {
+    position: absolute;
+    background-color: #39FF39;
 
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+
+    display: none;
+}
 
 /*Main*/
 main {
