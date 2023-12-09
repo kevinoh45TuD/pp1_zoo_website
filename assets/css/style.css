@@ -72,7 +72,7 @@ h1 {
     margin-bottom: 1em;
     text-align: center;
 
-    border: 1px solid #000;
+    border: 2px solid transparent;
     color: #FFF;
 }
 
@@ -160,5 +160,19 @@ footer {
     /*Main*/
     main {
         margin-top: 75px;
+    }
+}
+
+/*Laptop + Desktops - 992px and above*/
+@media screen and (min-width: 992px) {
+    li:hover.inactive {
+        outline: 10px solid #DAB52E;
+        color: #DAB52E;
+        z-index: 98;
+    }
+
+    li:hover.active {
+        outline: 10px solid #FFF;
+        z-index: 98;
     }
 }
