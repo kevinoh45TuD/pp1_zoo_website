@@ -71,14 +71,19 @@ h1 {
     margin-bottom: 1em;
     text-align: center;
 
-    background-color: #005200;
+    border: 1px solid #000;
     color: #FFF;
 }
 
 .active {
-    border: 1px solid #000;
+
     background-color: #DAB52E;
-    padding: 2px;
+
+}
+
+.inactive {
+
+    background-color: #005200;
 }
 
 nav {
@@ -111,9 +116,37 @@ nav {
 main {
     background-color: #85FF85;
     flex: 1 0 auto;
+
+    margin-top: 47px;
 }
 
 /*Footer*/
 footer {
     background-color: #DAB52E;
+}
+
+/*Media Query - 768px and above*/
+@media screen and (min-width: 768px) {
+
+    /*Header*/
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu>li {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
 }
