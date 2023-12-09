@@ -68,6 +68,7 @@ h1 {
 }
 
 #menu>li {
+
     margin-bottom: 1em;
     text-align: center;
 
@@ -148,5 +149,16 @@ footer {
 
     .nav-toggle-label {
         display: none;
+    }
+
+    #logo {
+        font-size: 190%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+
+    /*Main*/
+    main {
+        margin-top: 75px;
     }
 }
