@@ -121,12 +121,36 @@ main {
     margin-top: 47px;
 }
 
+hr {
+    border: 1px solid #000;
+}
+
 /*Home*/
 #general-info {
-    width: 40%;
-    height: 500px;
+    border: 1px solid #000;
 
-    outline: 1px solid #000;
+    margin-top: 10px;
+}
+
+#general-head {
+    color: #000;
+
+    text-transform: uppercase;
+
+    margin-top: 5px;
+}
+
+#general-text {
+    color: #000;
+
+    letter-spacing: 1px;
+    word-spacing: 5px;
+
+
+
+    margin-top: 5px;
+    line-height: 2.5;
+
 }
 
 /*Animals*/
@@ -192,6 +216,16 @@ footer {
     main {
         margin-top: 75px;
     }
+
+    /*Home*/
+    #general-info {
+        width: 100%;
+
+    }
+
+    #general-text {
+        font-size: 10px;
+    }
 }
 
 /*Laptop + Desktops - 992px and above*/
@@ -207,6 +241,19 @@ footer {
     li:hover.active {
         outline: 10px solid #FFF;
         z-index: 98;
+    }
+
+    /*Main*/
+
+    /*Home*/
+    #general-info {
+        width: 40%;
+        height: 500px;
+
+    }
+
+    #general-text {
+        font-size: 20px;
     }
 
     /*Footer*/
