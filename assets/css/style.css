@@ -121,6 +121,22 @@ main {
     margin-top: 47px;
 }
 
+/*Home*/
+#general-info {
+    width: 40%;
+    height: 500px;
+
+    outline: 1px solid #000;
+}
+
+/*Animals*/
+
+/*Gallery*/
+
+/*Contact Us*/
+
+/*Thank You*/
+
 /*Footer*/
 footer {
     background-color: #DAB52E;
@@ -138,7 +154,7 @@ footer {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #000;    
+    color: #000;
 }
 
 /*Media Query - 768px and above*/
