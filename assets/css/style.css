@@ -195,9 +195,11 @@ hr {
 
 /*Animals*/
 #animal-nav {
-    position: fixed;
+
     background-color: #DAB52E;
     background-blend-mode: overlay;
+    display: flex;
+    flex-direction: row;
 }
 
 .animal-photo {
@@ -413,6 +415,9 @@ footer {
 
         width: 50%;
     }
+
+    /*Animals*/
+
 
     /*Gallery*/
     #animal-video {
