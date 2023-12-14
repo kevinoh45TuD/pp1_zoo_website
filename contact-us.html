@@ -63,7 +63,50 @@
 
     <!--Main-->
     <main>
-      <section id="contact-form"></section>
+      <section id="contact">
+        <form id="contact-form" method="POST" action="./thank-you.html">
+          <h2>Contact Us</h2>
+
+          <label for="user-name">Name:</label>
+          <input
+            type="text"
+            name="user-name"
+            id="user-name"
+            class="text-input"
+            required
+          />
+          <br />
+
+          <label for="user-email">Email:</label>
+          <input
+            type="email"
+            name="user-email"
+            id="user-email"
+            class="text-input"
+            required
+          />
+          <br />
+
+          <label for="query-category">Query Type:</label>
+          <select name="query-category" id="query-category">
+            <option value="opening-hours">Opening Hours</option>
+            <option value="prices">Prices</option>
+            <option value="animals">Animals</option>
+            <option value="other">Other</option>
+          </select>
+          <br />
+
+          <label for="query-text">Query Text:</label>
+          <textarea name="query-text" id="query-text" rows="5" cols="50">
+                Input your query here!
+            </textarea
+          >
+          <br />
+
+          <button type="submit" class="submit-button">Submit</button>
+        </form>
+      </section>
+
       <section id="contact-details"></section>
     </main>
 
