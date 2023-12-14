@@ -206,6 +206,23 @@ hr {
 }
 
 /*Gallery*/
+#gallery-main {
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+#animal-video {
+    background-color: #005200;
+}
+
+#animal-photo {
+    border: 1px solid #000;
+
+    width: 100%;
+
+}
 
 /*Contact Us*/
 
@@ -296,6 +313,11 @@ footer {
     #general-text {
         font-size: 10px;
     }
+
+    /*Gallery*/
+    #gallery-photos {
+        column-count: 2;
+    }
 }
 
 /*Laptop + Desktops - 992px and above*/
@@ -351,6 +373,16 @@ footer {
         margin-top: -150px;
 
         width: 50%;
+    }
+
+    /*Gallery*/
+    #animal-video {
+        height: 640px;
+
+    }
+
+    #gallery-photos {
+        column-count: 3;
     }
 
     /*Footer*/
