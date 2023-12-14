@@ -225,6 +225,32 @@ hr {
 }
 
 /*Contact Us*/
+#contact-main {
+    display: flex;
+
+    flex-direction: column;
+
+    color: #000;
+}
+
+#contact {
+    border: 1px solid #000;
+
+    justify-content: center;
+    align-content: center;
+
+    box-sizing: border-box;
+
+    padding-bottom: 5px;
+}
+
+#contact-details {
+    border: 1px solid #000;
+
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
 
 /*Thank You*/
 #thankyou-main {
@@ -318,6 +344,19 @@ footer {
     #gallery-photos {
         column-count: 2;
     }
+
+    /*Contact*/
+    #contact-main {
+        flex-direction: column;
+    }
+
+    #contact {
+        width: 100%;
+    }
+
+    #contact-details {
+        width: 100%;
+    }
 }
 
 /*Laptop + Desktops - 992px and above*/
@@ -383,6 +422,25 @@ footer {
 
     #gallery-photos {
         column-count: 3;
+    }
+
+    /*Contact*/
+    #contact-main {
+        flex-direction: row;
+
+        font-size: 110%;
+    }
+
+    #contact {
+        justify-content: space-evenly;
+    }
+
+    #contact-details {
+        padding-left: 20px;
+        padding-top: 20px;
+        box-sizing: border-box;
+        text-align: center;
+        font-size: 200%;
     }
 
     /*Footer*/
