@@ -120,7 +120,7 @@ main {
 
     margin-top: 47px;
 
-
+    display: flex;
 }
 
 hr {
@@ -210,7 +210,24 @@ hr {
 /*Contact Us*/
 
 /*Thank You*/
+#thankyou-main {
+    color: #000;
+    border: 1px solid #000;
 
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+
+    height: 100%;
+}
+
+#thankyou-div>h2 {
+    margin-bottom: 20px;
+}
 
 /*Footer*/
 footer {
