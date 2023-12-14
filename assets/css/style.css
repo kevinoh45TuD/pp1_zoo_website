@@ -194,6 +194,12 @@ hr {
 }
 
 /*Animals*/
+#animal-nav {
+    position: fixed;
+    background-color: #DAB52E;
+    background-blend-mode: overlay;
+}
+
 .animal-photo {
     width: 240px;
     height: 120px;
