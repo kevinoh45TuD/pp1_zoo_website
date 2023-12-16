@@ -110,9 +110,13 @@ Steps take to achieve this:
 
 ### Media
 
+#### Animal Page
+
 - Lion picture used on 'Animal' page [Lion photo](https://www.pexels.com/photo/close-up-photo-of-lion-1598377/)
 - Orangutan picture used on 'Animal' page [Orangutan photo](https://www.pexels.com/photo/orangutan-eating-fruit-near-funny-baby-primate-hanging-on-liana-825595/)
 - Giraffe picture used on 'Animal' page [Giraffe photo](https://www.pexels.com/photo/selective-focus-photography-of-giraffe-head-797643/)
+
+#### Gallery Page
 
 - Elephant picture used on 'Gallery' page [Elephant photo](https://www.pexels.com/photo/photo-of-an-elephant-2499271/)
 - Panda picture used on 'Gallery' page [Panda photo](https://www.pexels.com/photo/photo-of-a-black-and-white-panda-hanging-on-a-tree-6967903/)
@@ -122,6 +126,8 @@ Steps take to achieve this:
 - Zebra picture used on 'Gallery' page [Zebra photo](https://www.pexels.com/photo/close-up-shot-of-a-zebra-7266345/)
 
 - Orangutan video used on 'Gallery' page [Orangutan video](https://www.pexels.com/video/orangutan-stretching-in-a-forest-7710027/)
+
+#### Map
 
 - Vector art of map used on 'Home' page, Image by rawpixel.com on Freepik [Map image](https://www.freepik.com/free-vector/illustration-zoo-park-map_2922222.htm#query=zoo%20park%20map&position=1&from_view=keyword&track=ais&uuid=1bc24b52-0c51-4f53-aa60-72ca22b520f8)
 
