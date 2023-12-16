@@ -1,9 +1,10 @@
 /*
     Color-Palette
-    Light-Green: #85FF85
-    Green: #39FF39
+    Light-Green: #85FF85 . new #A4E890 (shades)
+    Green: #39FF39 . new #579A47 (shades)
     Dark-Green: #005200
-    Yellow: #DAB52E
+    Yellow: #DAB52E . new #926012 . new #DBC463 (skip shade)
+    Black: #000
 */
 
 /*Google Font*/
@@ -30,7 +31,7 @@ body {
 
 /*Header*/
 header {
-    background-color: #39FF39;
+    background-color: #579A47;
 
     padding: 0 1rem;
     position: fixed;
@@ -57,10 +58,18 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 2px;
 
-    color: #000;
+
 
     display: flex;
 
+}
+
+h1 {
+    color: #000;
+}
+
+h2 {
+    color: #005200;
 }
 
 /*Nav Bar*/
@@ -76,23 +85,26 @@ h2 {
     text-align: center;
 
     border: 2px solid transparent;
-    color: #FFF;
+    /*white*/
+
 }
 
 .active {
 
-    background-color: #DAB52E;
+    background-color: #DBC463;
+    color: #005200;
 
 }
 
 .inactive {
 
     background-color: #005200;
+    color: #DBC463;
 }
 
 nav {
     position: absolute;
-    background-color: #39FF39;
+    background-color: #579A47;
 
     width: 100%;
     left: 0;
@@ -118,7 +130,7 @@ nav {
 
 /*Main*/
 main {
-    background-color: #85FF85;
+    background-color: #A4E890;
     flex: 1 0 auto;
 
     margin-top: 47px;
@@ -127,7 +139,7 @@ main {
 }
 
 hr {
-    border: 1px solid #000;
+    border: 1px solid #005200;
 }
 
 /*Home*/
@@ -172,7 +184,7 @@ hr {
 }
 
 #times-ul {
-    color: #000;
+    color: #005200;
 
     letter-spacing: 1px;
     word-spacing: 5px;
@@ -299,7 +311,7 @@ hr {
 
     flex-direction: column;
 
-    color: #000;
+    color: #005200;
 }
 
 #contact {
@@ -343,7 +355,7 @@ hr {
 
 /*Footer*/
 footer {
-    background-color: #DAB52E;
+    background-color: #DBC463;
 }
 
 #social-networks {
@@ -433,13 +445,14 @@ footer {
 
     /*Header*/
     li:hover.inactive {
-        outline: 10px solid #DAB52E;
-        color: #DAB52E;
+        outline: 10px solid #DBC463;
+        color: #DBC463;
         z-index: 98;
     }
 
     li:hover.active {
-        outline: 10px solid #FFF;
+        /*white*/
+        outline: 10px solid #005200;
         z-index: 98;
     }
 
@@ -515,6 +528,7 @@ footer {
 
     /*Footer*/
     #social-networks i:hover {
-        color: #FFF;
+        /*white*/
+        color: #005200;
     }
 }
