@@ -132,48 +132,43 @@ hr {
 
 /*Home*/
 #general-info {
-    border: 1px solid #000;
+    border: 3px solid #005200;
 
     margin-top: 10px;
 }
 
-#general-head {
-    color: #000;
+.home-heading {
+    color: #005200;
 
     text-transform: uppercase;
 
     margin-top: 5px;
+
+    font-size: 5rem;
+
+    align-content: center;
+    justify-content: center;
+}
+
+#home-top {
+    display: flex;
+    flex-direction: row;
+
+    width: 100%;
 }
 
 #general-text {
-    color: #000;
 
-    letter-spacing: 1px;
-    word-spacing: 5px;
+    letter-spacing: 0.25rem;
+    word-spacing: 0.5rem;
 
-    display: flex;
-
-    margin-top: 5px;
-    line-height: 2.5;
-
-    text-align: justify;
-
+    color: #005200;
 }
 
 #opening-times {
-    border: 1px solid #000;
+    border: 3px solid #005200;
 
     margin-top: 10px;
-}
-
-#times-head {
-    color: #000;
-
-    text-transform: uppercase;
-
-    margin-top: 5px;
-
-    text-align: center;
 }
 
 #times-ul {
@@ -203,7 +198,7 @@ hr {
 
     text-align: center;
 
-    padding: 5rem;
+    padding: 0rem 5rem 5rem 5rem;
 }
 
 #map-image {
@@ -291,10 +286,11 @@ hr {
 }
 
 #animal-photo {
-    border: 1px solid #000;
+    border: 3px solid #005200;
 
     width: 100%;
 
+    padding: 2rem;
 }
 
 /*Contact Us*/
@@ -307,7 +303,7 @@ hr {
 }
 
 #contact {
-    border: 1px solid #000;
+    border: 3px solid #005200;
 
     justify-content: center;
     align-content: center;
@@ -318,7 +314,7 @@ hr {
 }
 
 #contact-details {
-    border: 1px solid #000;
+    border: 3px solid #005200;
 
     justify-content: center;
     align-content: center;
@@ -327,8 +323,8 @@ hr {
 
 /*Thank You*/
 #thankyou-main {
-    color: #000;
-    border: 1px solid #000;
+    color: #005200;
+    border: 3px solid #005200;
 
     display: flex;
     flex-direction: column;
@@ -462,29 +458,27 @@ footer {
     }
 
     #general-info {
-        width: 40%;
-        height: 50%;
+        flex: 50%;
+
 
     }
 
     #general-text {
-        font-size: 20px;
+        font-size: 2rem;
     }
 
     #opening-times {
-        height: 100%;
-
-
+        flex: 50%
     }
 
     #times-ul {
-        font-size: 20px;
+        font-size: 2rem;
     }
 
     #map {
-        margin-top: -150px;
 
-        width: 50%;
+
+        width: 100%;
     }
 
     /*Animals*/
