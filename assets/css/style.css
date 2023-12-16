@@ -50,13 +50,16 @@ header a {
     color: inherit;
 }
 
-h1 {
+h1,
+h2 {
     font-family: 'Oswald', sans-serif;
 
     text-transform: uppercase;
     letter-spacing: 2px;
 
     color: #000;
+
+    display: flex;
 
 }
 
@@ -211,6 +214,8 @@ hr {
 }
 
 /*Animals*/
+
+/*
 #animal-nav {
 
     background-color: #DAB52E;
@@ -218,10 +223,59 @@ hr {
     display: flex;
     flex-direction: row;
 }
+*/
+
+#animal-content {
+    display: flex;
+    flex-direction: column;
+
+    margin-bottom: 10rem;
+}
+
+.animal-heading {
+    color: #005200;
+
+    font-size: 5rem;
+
+    align-content: center;
+    justify-content: center;
+}
 
 .animal-photo {
-    width: 240px;
-    height: 120px;
+    width: 40rem;
+
+    border: solid 3px #005200;
+    border-radius: 5%;
+}
+
+.animal-content {
+    display: flex;
+    flex-direction: row;
+
+    width: 100%;
+    padding: 0rem 5rem;
+}
+
+#monkey-content {
+    display: flex;
+    flex-direction: row-reverse;
+
+    width: 100%;
+    padding: 0rem 5rem;
+}
+
+.animal-text {
+    font-size: 2rem;
+
+    color: #005200;
+
+    word-spacing: 1rem;
+
+    padding: 5rem;
+
+    justify-content: center;
+    align-items: center;
+    align-content: center;
 }
 
 /*Gallery*/
