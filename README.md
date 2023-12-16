@@ -20,12 +20,16 @@ and what things were used to create this website.
    - Footer
 3. Technologies Used
    - Languages
-   - Libraries
-   - Tools
+   - Code
+   - Font / Icons
+   - Media
 4. Testing
    - Validator
 5. Deployment
 6. Credits
+   - Code Institute
+   - Media
+   - Other
 
 ## UX
 
@@ -96,7 +100,7 @@ Steps take to achieve this:
 
 ## Credits
 
-- A special thanks to my mentor Matt Boden for his assistance throughtout the project! @MattBCoding
+- A special thanks to my mentor Matt Boden for his assistance throughtout the project! [MattBCoding](https://github.com/MattBCoding)
 
 ### Code Institute
 
