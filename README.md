@@ -59,4 +59,13 @@ and what things were used to create this website.
 
 ## Deployment
 
+My website was deployed using 'Github Pages'.
+
+Steps take to achieve this:
+
+1. Go to repository page
+2. Click 'Settings'
+3. Click 'Pages'
+4. Select 'main' branch to deploy from
+
 ## Credits
