@@ -350,8 +350,8 @@ hr {
     justify-content: center;
 }
 
-/*Thank You*/
-#thankyou-main {
+/*Extra Pages*/
+#extra-main {
     color: #005200;
     border: 3px solid #005200;
 
@@ -366,19 +366,19 @@ hr {
     height: 100%;
 }
 
-#thankyou-text {
+#extra-text {
     padding: 2rem;
 
     text-align: center;
 }
 
-#thankyou-head {
+#extra-head {
     justify-content: center;
     text-align: center;
     align-content: center;
 }
 
-#thankyou-anchor {
+#extra-anchor {
     display: flex;
     justify-content: center;
 }
@@ -559,7 +559,7 @@ footer {
     }
 
     /*Extra Pages*/
-    #thankyou-main {
+    #extra-main {
         font-size: 2rem;
     }
 
