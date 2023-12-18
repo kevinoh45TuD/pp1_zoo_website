@@ -235,16 +235,6 @@ hr {
 
 /*Animals*/
 
-/*
-#animal-nav {
-
-    background-color: #DAB52E;
-    background-blend-mode: overlay;
-    display: flex;
-    flex-direction: row;
-}
-*/
-
 #animal-content {
     display: flex;
     flex-direction: column;
@@ -324,6 +314,7 @@ hr {
 
     flex-direction: column;
 
+
     color: #005200;
 }
 
@@ -338,12 +329,25 @@ hr {
     padding-bottom: 5px;
 }
 
+#contact-form {
+    display: flex;
+
+    flex-direction: column;
+    align-content: space-between;
+
+    flex-wrap: wrap;
+}
+
 #contact-details {
     border: 3px solid #005200;
 
     justify-content: center;
     align-content: center;
     align-items: center;
+}
+
+.contact-head {
+    justify-content: center;
 }
 
 /*Thank You*/
@@ -365,6 +369,8 @@ hr {
 #thankyou-div>h2 {
     margin-bottom: 20px;
 }
+
+/*404*/
 
 /*Footer*/
 footer {
