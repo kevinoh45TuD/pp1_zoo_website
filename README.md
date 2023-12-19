@@ -31,6 +31,7 @@ and what things were used to create this website.
 4. Testing
    - Validator
    - Lighthouse
+   - Wave webaim - Accessability testing
    - Manual Testing
 5. Deployment
 6. Credits
@@ -114,7 +115,13 @@ and what things were used to create this website.
 
 ### Lighthouse
 
+### Wave webaim - Accessability testing
+
 ### Manual Testing
+
+| Feature being tested | Expected Outcome | Testing Performed | Actual Outcome | Result (Pass or fail) |
+| -------------------- | ---------------- | ----------------- | -------------- | --------------------- |
+| enter details here | enter details here | enter details here | enter details here | enter details here |
 
 ## Deployment
 
