@@ -357,6 +357,8 @@ main {
     align-items: center;
 
     height: 100%;
+
+    font-size: 1.5rem;
 }
 
 #extra-text {
@@ -492,6 +494,10 @@ footer {
     #contact-details {
         width: 100%;
     }
+
+    #extra-main {
+        font-size: 2rem;
+    }
 }
 
 /*Laptop + Desktops - 992px and above*/
@@ -617,7 +623,7 @@ footer {
 
     /*Extra Pages*/
     #extra-main {
-        font-size: 2rem;
+        font-size: 3rem;
     }
 
     /*Footer*/
