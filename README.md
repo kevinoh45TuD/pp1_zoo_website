@@ -11,6 +11,7 @@ and what things were used to create this website.
 
 1. UX
    - User Stories
+   - Wireframes
    - Color Palette
    - Font / Icons
    - Imagery
@@ -42,6 +43,13 @@ and what things were used to create this website.
 ## UX
 
 ### User Stories
+
+### Wireframes
+
+[Home page wireframe](/doc-media/doc-wireframes/wireframe-home.png)
+[Animals page wireframe](/doc-media/doc-wireframes/wireframe-home.png)
+[Gallery page wireframe](/doc-media/doc-wireframes/wireframe-home.png)
+[Contact page wireframe](/doc-media/doc-wireframes/wireframe-home.png)
 
 ### Color Palette
 
