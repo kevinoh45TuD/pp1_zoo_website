@@ -633,6 +633,10 @@ footer {
         column-count: 3;
     }
 
+    .topmargin-gallery {
+        margin-bottom: 1rem;
+    }
+
     /*Contact*/
     #contact-main {
         flex-direction: row;
