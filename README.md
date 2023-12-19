@@ -11,6 +11,9 @@ and what things were used to create this website.
 
 1. UX
    - User Stories
+   - Color Palette
+   - Font / Icons
+   - Imagery
 2. Features
    - Navigation Bar
    - Home
@@ -18,6 +21,8 @@ and what things were used to create this website.
    - Gallery
    - Contact Us
    - Footer
+   - Extra Pages
+   - Future Features
 3. Technologies Used
    - Languages
    - Code
@@ -25,6 +30,8 @@ and what things were used to create this website.
    - Media
 4. Testing
    - Validator
+   - Lighthouse
+   - Manual Testing
 5. Deployment
 6. Credits
    - Code Institute
@@ -34,6 +41,12 @@ and what things were used to create this website.
 ## UX
 
 ### User Stories
+
+### Color Palette
+
+### Font / Icons
+
+### Imagery
 
 ## Features
 
@@ -48,6 +61,10 @@ and what things were used to create this website.
 ### Contact Us
 
 ### Footer
+
+### Extra Pages
+
+### Future Features
 
 ## Technologies Used
 
@@ -94,6 +111,10 @@ and what things were used to create this website.
 ## Testing
 
 ### Validator
+
+### Lighthouse
+
+### Manual Testing
 
 ## Deployment
 
