@@ -94,6 +94,15 @@ For general text and nav bar I used [Varela Round](https://fonts.google.com/spec
 
 ### Imagery
 
+All the photos and video on my website were found on [Pexels](https://www.pexels.com) except for the map image.
+The link to each piece of media can be found in the credits section.
+
+I chose to use releastic images for my website as I felt the imagery needed to be similar to what you might see if you go to this fictional zoo.
+
+![Picture of Lion](/assets/images/lion-1.jpg)
+
+I also wanted to pick images and videos that had a lot of greenery. This would match well with the color palette of my website.
+
 ## Features
 
 ### Navigation Bar
