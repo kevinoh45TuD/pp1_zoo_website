@@ -46,10 +46,16 @@ and what things were used to create this website.
 
 ### Wireframes
 
-[Home page wireframe](/doc-media/doc-wireframes/wireframe-home.png)
-[Animals page wireframe](/doc-media/doc-wireframes/wireframe-home.png)
-[Gallery page wireframe](/doc-media/doc-wireframes/wireframe-home.png)
-[Contact page wireframe](/doc-media/doc-wireframes/wireframe-home.png)
+I created my wireframes using [Balsamiq](https://balsamiq.com)
+
+My initial concept was based on a website for Dublin zoo, this was changed after the wireframe stage to have the website made for a fictional zoo.
+
+- [Home page wireframe](/doc-media/doc-wireframes/wireframe-home.png)
+- [Animals page wireframe](/doc-media/doc-wireframes/wireframe-animals.png)
+- [Gallery page wireframe](/doc-media/doc-wireframes/wireframe-media.png)
+- [Contact page wireframe](/doc-media/doc-wireframes/wireframe-contact.png)
+
+Other things changed after the wireframe but the general layout and color scheme stayed the same.
 
 ### Color Palette
 
