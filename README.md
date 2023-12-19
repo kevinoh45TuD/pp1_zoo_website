@@ -73,6 +73,14 @@ and what things were used to create this website.
 
 - FireAlpaca software was used to create the art for the favicon icons [FireAlpaca](https://firealpaca.com)
 
+### Color Palette
+
+- Coolors was used to initially pick colors for websites color palette [Coolors](https://coolors.co)
+
+- ColorSpace was used to generate updated color palette based on initially picked colors [ColorSpace](https://mycolor.space)
+
+- EightShapes Contrast Grid was used to test contrast of color palette [EightShapes](https://contrast-grid.eightshapes.com)
+
 ### Media
 
 - Pexels was used to source free to use photos and video for both the 'Animals' and 'Gallery' pages [Pexels](https://www.pexels.com)
@@ -134,5 +142,6 @@ Steps take to achieve this:
 ### Other
 
 - An article on GitHub was used to help with creating this README doc [Article](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- An article outlining a CSS fix for error created from nav toggle [Article](https://css-tricks.com/inclusively-hidden/)
 
 [Back to top](#central-zoo)
