@@ -1,9 +1,9 @@
 /*
     Color-Palette
-    Light-Green: #85FF85 . new #A4E890 (shades)
-    Green: #39FF39 . new #579A47 (shades)
+    Light-Green: #A4E890
+    Green: #579A47
     Dark-Green: #005200
-    Yellow: #DAB52E . new #926012 . new #DBC463 (skip shade)
+    Yellow: #DBC463
     Black: #000
 */
 
@@ -24,7 +24,6 @@ body {
     flex-direction: column;
 
     /*Generic Styles*/
-    color: #3a3a3a;
     font-family: 'Varela Round', sans-serif;
 
 }
@@ -71,18 +70,17 @@ h2 {
 
 /*Nav Bar*/
 #menu {
-    font-size: 110%;
+
     letter-spacing: 4px;
     list-style-type: none;
 }
 
 #menu>li {
 
-    margin-bottom: 1em;
+    margin-bottom: 1rem;
     text-align: center;
 
     border: 2px solid transparent;
-    /*white*/
 
 }
 
@@ -148,10 +146,6 @@ main {
     display: flex;
 }
 
-hr {
-    border: 1px solid #005200;
-}
-
 /*Home*/
 
 #main-home {
@@ -162,7 +156,6 @@ hr {
 #general-info {
     border: 3px solid #005200;
 
-    margin-top: 10px;
 }
 
 .home-heading {
@@ -170,12 +163,12 @@ hr {
 
     text-transform: uppercase;
 
-    margin-top: 5px;
-
-
+    margin-top: 1rem;
 
     align-content: center;
     justify-content: center;
+
+    font-size: 2rem;
 }
 
 #home-top {
@@ -192,12 +185,14 @@ hr {
     word-spacing: 0.5rem;
 
     color: #005200;
+
+    padding: 1.5rem;
 }
 
 #opening-times {
     border: 3px solid #005200;
 
-    margin-top: 10px;
+
 }
 
 #times-ul {
@@ -206,14 +201,16 @@ hr {
     letter-spacing: 1px;
     word-spacing: 5px;
 
+    margin-top: 1rem;
+    margin-bottom: 2rem;
 
-
-    margin-top: 5px;
     line-height: 2.5;
 
     list-style-type: none;
 
     text-align: center;
+
+    font-size: 1.5rem;
 }
 
 #map {
@@ -227,7 +224,7 @@ hr {
 
     text-align: center;
 
-    padding: 0rem 5rem 5rem 5rem;
+    padding: 0rem 1rem 1rem 1rem;
 }
 
 #map-image {
@@ -421,6 +418,8 @@ footer {
 
     #menu {
         display: flex;
+
+        font-size: 1rem;
     }
 
     #menu>li {
@@ -452,7 +451,17 @@ footer {
     }
 
     #general-text {
-        font-size: 10px;
+        font-size: 1.5rem;
+
+        padding: 1.5rem;
+    }
+
+    #map {
+        padding: 0rem 3rem 3rem 3rem;
+    }
+
+    .home-heading {
+        font-size: 3rem;
     }
 
     /*Gallery*/
@@ -478,6 +487,10 @@ footer {
 @media screen and (min-width: 992px) {
 
     /*Header*/
+    #menu {
+        font-size: 2rem;
+    }
+
     li:hover.inactive {
         outline: 10px solid #DBC463;
         color: #DBC463;
@@ -507,7 +520,7 @@ footer {
     }
 
     .home-heading {
-        font-size: 5rem;
+        font-size: 4rem;
     }
 
     #general-info {
@@ -518,6 +531,8 @@ footer {
 
     #general-text {
         font-size: 2rem;
+
+        padding: 4rem;
     }
 
     #opening-times {
@@ -526,10 +541,13 @@ footer {
 
     #times-ul {
         font-size: 2rem;
+
+        margin-top: 3rem;
     }
 
     #map {
 
+        padding: 0rem 5rem 5rem 5rem;
 
         width: 100%;
     }
