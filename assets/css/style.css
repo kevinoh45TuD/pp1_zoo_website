@@ -289,9 +289,7 @@ main {
 
 }
 
-#animal-video {
-    background-color: #005200;
-}
+#animal-video {}
 
 #animal-photo {
     border: 3px solid #005200;
@@ -299,6 +297,10 @@ main {
     width: 100%;
 
     margin: 0.1rem;
+
+    border-radius: 5%;
+
+    margin: 1rem 0rem 1rem 0rem;
 }
 
 /*Contact Us*/
