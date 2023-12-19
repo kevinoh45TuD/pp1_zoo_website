@@ -337,10 +337,22 @@ main {
     justify-content: center;
     align-content: center;
     align-items: center;
+
+    text-align: center;
 }
 
 .contact-head {
     justify-content: center;
+}
+
+.submit-button {
+    width: 50%;
+
+    border: solid #005200;
+    color: #DBC463;
+    background-color: #005200;
+
+    margin-inline: auto;
 }
 
 /*Extra Pages*/
@@ -493,10 +505,27 @@ footer {
 
     #contact-details {
         width: 100%;
+        text-align: center;
+
+        font-size: 2rem;
     }
 
     #extra-main {
         font-size: 2rem;
+    }
+
+    .contact-head {
+        font-size: 2.5rem;
+    }
+
+    .form-label {
+        font-size: 1.5rem;
+    }
+
+    .submit-button {
+        height: 2rem;
+
+        font-size: 1.5rem;
     }
 }
 
@@ -618,7 +647,25 @@ footer {
         padding-top: 20px;
         box-sizing: border-box;
         text-align: center;
-        font-size: 200%;
+        font-size: 3rem;
+    }
+
+    #contact-form {
+        padding-top: 1.5rem;
+    }
+
+    .contact-head {
+        font-size: 3rem;
+    }
+
+    .form-label {
+        font-size: 2rem;
+    }
+
+    .submit-button {
+        height: 3rem;
+
+        font-size: 2rem;
     }
 
     /*Extra Pages*/
