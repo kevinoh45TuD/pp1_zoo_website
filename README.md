@@ -86,6 +86,12 @@ Here is the final color palette together using Coolors once more:
 
 ### Font / Icons
 
+I used [Google Fonts](https://fonts.google.com) to source the fonts used for this website.
+
+For headings and website title I used [Oswald](https://fonts.google.com/specimen/Oswald)
+
+For general text and nav bar I used [Varela Round](https://fonts.google.com/specimen/Varela+Round)
+
 ### Imagery
 
 ## Features
