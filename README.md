@@ -45,6 +45,12 @@ and what things were used to create this website.
 
 ### Color Palette
 
+My initial color palette was picked using a website called 'Coolors'. I picked 3 different shades of green and 1 shade of yellow/orange.
+
+![Picture of initial color palette](/doc-media/doc-initial-palette.png)
+
+[Link to coolors with palette](https://coolors.co/39ff39-005200-85ff85-dab52e)
+
 ### Font / Icons
 
 ### Imagery
@@ -119,9 +125,9 @@ and what things were used to create this website.
 
 ### Manual Testing
 
-| Feature being tested | Expected Outcome | Testing Performed | Actual Outcome | Result (Pass or fail) |
-| -------------------- | ---------------- | ----------------- | -------------- | --------------------- |
-| enter details here | enter details here | enter details here | enter details here | enter details here |
+| Feature being tested | Expected Outcome   | Testing Performed  | Actual Outcome     | Result (Pass or fail) |
+| -------------------- | ------------------ | ------------------ | ------------------ | --------------------- |
+| enter details here   | enter details here | enter details here | enter details here | enter details here    |
 
 ## Deployment
 
