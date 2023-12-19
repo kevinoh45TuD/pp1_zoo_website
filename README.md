@@ -46,10 +46,29 @@ and what things were used to create this website.
 ### Color Palette
 
 My initial color palette was picked using a website called 'Coolors'. I picked 3 different shades of green and 1 shade of yellow/orange.
+I wanted to use these types of colors for the website as it would be fitting to the nature based theming of the website.
 
 ![Picture of initial color palette](/doc-media/doc-initial-palette.png)
 
 [Link to coolors with palette](https://coolors.co/39ff39-005200-85ff85-dab52e)
+
+I next used a website called ColorSpace to help generate values to make more complimentary shades of green. I used the original dark green hex to base the other shades on.
+
+![Picture of final color palette](/doc-media/doc-origin-palette.png)
+
+[Link to colorspace with green generation](https://mycolor.space/?hex=%23005200&sub=1)
+
+To find a new yellow/orange color I used the same website with initial color set to the new shade of green '#579A47' and found a fitting shade under the 'Skip Shade' section.
+
+![Picture of new yellow/orange color](/doc-media/doc-alt-palette.png)
+
+With the final color palette chosen I used ContrastGrids to check each colors contrast with each other.
+
+![Picture of contrast grid](/doc-media/doc-contrast-palette.png)
+
+Here is the final color palette together using Coolors once more:
+
+![Picture of final color palette on Coolors](/doc-media/doc-final-palette.png)
 
 ### Font / Icons
 
