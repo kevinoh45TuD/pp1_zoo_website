@@ -58,10 +58,7 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 2px;
 
-
-
     display: flex;
-
 }
 
 h1 {
@@ -156,6 +153,12 @@ hr {
 }
 
 /*Home*/
+
+#main-home {
+    display: flex;
+    flex-direction: column;
+}
+
 #general-info {
     border: 3px solid #005200;
 
@@ -169,7 +172,7 @@ hr {
 
     margin-top: 5px;
 
-    font-size: 5rem;
+
 
     align-content: center;
     justify-content: center;
@@ -177,7 +180,8 @@ hr {
 
 #home-top {
     display: flex;
-    flex-direction: row;
+
+    flex-direction: column;
 
     width: 100%;
 }
@@ -383,8 +387,6 @@ hr {
     justify-content: center;
 }
 
-/*404*/
-
 /*Footer*/
 footer {
     background-color: #DBC463;
@@ -489,7 +491,9 @@ footer {
     }
 
     /*Main*/
-    main {}
+    #home-top {
+        flex-direction: row;
+    }
 
     /*Home*/
     #main-home {
@@ -500,6 +504,10 @@ footer {
 
     #main-home>section {
         flex: 50%;
+    }
+
+    .home-heading {
+        font-size: 5rem;
     }
 
     #general-info {
