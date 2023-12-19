@@ -289,8 +289,6 @@ main {
 
 }
 
-#animal-video {}
-
 #animal-photo {
     border: 3px solid #005200;
 
@@ -494,6 +492,10 @@ footer {
     /*Gallery*/
     #gallery-photos {
         column-count: 2;
+    }
+
+    .topmargin-gallery {
+        margin-top: 7rem;
     }
 
     /*Contact*/
