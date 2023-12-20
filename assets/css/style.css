@@ -1,12 +1,3 @@
-/*
-    Color-Palette
-    Light-Green: #A4E890
-    Green: #579A47
-    Dark-Green: #005200
-    Yellow: #DBC463
-    Black: #000
-*/
-
 /*Google Font*/
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Varela+Round&display=swap');
 
@@ -300,6 +291,10 @@ main {
 }
 
 /*Contact Us*/
+form {
+    padding: 1rem;
+}
+
 #contact-main {
     display: flex;
 
@@ -498,6 +493,10 @@ footer {
     }
 
     /*Contact*/
+    form {
+        padding: 1.5rem;
+    }
+
     #contact-main {
         flex-direction: column;
     }
@@ -643,6 +642,10 @@ footer {
     }
 
     /*Contact*/
+    form {
+        padding: 2rem;
+    }
+
     #contact-main {
         flex-direction: row;
 
