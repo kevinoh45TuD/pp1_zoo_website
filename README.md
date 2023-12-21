@@ -114,6 +114,9 @@ I also wanted to pick images and videos that had a lot of greenery. This would m
 My navigation bar features the title of the website along with anchors to the 4 main pages that will be discussed below.
 Clicking the title or 'home' on any page will have the same function of bringing the user to the home page / index.html
 
+When on a device using a mouse the navigation elements will gain a border based on which one you are hovering over.
+The color will also change based on which page you are currently on.
+
 ![Picture of mobile nav-bar closed](/doc-media/navclose-480w.png)
 
 When on a small / mobile screen the navigation bar will feature the title of the website and a burger icon to open the other navigation links.
@@ -185,7 +188,14 @@ The video will not play till the user starts it, but as it is a short video it i
 
 ### Footer
 
+The footer of the website page remains consistent regardless of screen size.
+
 ![Picture of footer large](/doc-media/footer-1280w.png)
+
+It features 3 icons that when clicked on will open a new tab to the respective social media website.
+The three icons feature are Facebook, Twitter and Youtube.
+
+On devices that are using a mouse the color of the footer icon changed when hovered over.
 
 ### Extra Pages
 
