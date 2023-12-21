@@ -11,6 +11,7 @@ and what things were used to create this website.
 
 1. UX
    - User Stories
+   - Site Owner Goals
    - Wireframes
    - Color Palette
    - Font / Icons
@@ -43,6 +44,26 @@ and what things were used to create this website.
 ## UX
 
 ### User Stories
+
+Here I have outlined some user stories of things the user might want from this website.
+
+- As a user, I want to find out information about Central Zoo.
+- As a user, I want to find the opening hours.
+- As a user, I want to find out what I can see / do at Central Zoo.
+- As a user, I want to learn more about the animals I will see.
+- As a user, I want to see photos of animals.
+- As a user, I want to contact the zoo about a query.
+- As a user, I want to the address for Central Zoo.
+
+### Site Owner Goals
+
+Like with the above section here I have outlined some requirements the site owner might have.
+
+- Attract new potential customers to come to the zoo.
+- Find out an issues a user / customer might have, or an issue they have with the website itself.
+- Inform user / customers of opening hours.
+- Highlight available things to do and see at Central Zoo.
+- Provide user with important details in relation to finding or contacting the zoo.
 
 ### Wireframes
 
