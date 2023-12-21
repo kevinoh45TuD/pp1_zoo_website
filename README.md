@@ -32,6 +32,7 @@ and what things were used to create this website.
 3. Technologies Used
    - Languages
    - Code
+   - Testing
    - Font / Icons
    - Media
 4. Testing
@@ -318,6 +319,12 @@ Both future features will engage the users to a greater extent while also provid
 - Github was used to both manage my repository and host my website using the pages functionality [Github](https://github.com)
 
 - Codeanywhere was used as a cloud-based IDE [Codeanywhere](https://app.codeanywhere.com/)
+
+### Testing
+
+- CSS validator [CSS Validator](https://jigsaw.w3.org/css-validator/)
+- HTML validator [HTML Validator](https://validator.w3.org)
+- WAVE Accessibility [WAVE](https://wave.webaim.org)
 
 ### Font / Icons
 
