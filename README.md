@@ -107,6 +107,19 @@ I also wanted to pick images and videos that had a lot of greenery. This would m
 
 ### Navigation Bar
 
+![Picture of full nav-bar](/doc-media/nav-1280w.png)
+
+My navigation bar features the title of the website along with anchors to the 4 main pages that will be discussed below.
+Clicking the title or 'home' on any page will have the same function of bringing the user to the home page / index.html
+
+![Picture of mobile nav-bar closed](/doc-media/navclose-480w.png)
+
+When on a small / mobile screen the navigation bar will feature the title of the website and a burger icon to open the other navigation links.
+
+![Picture of mobile nav-bar open](/doc-media/navopen-480w.png)
+
+Clicking on the burger icon will reveal to the user the remaing anchor links to the other pages.
+
 ### Home
 
 ### Animals
