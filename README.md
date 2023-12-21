@@ -121,6 +121,13 @@ I also wanted to pick images and videos that had a lot of greenery. This would m
 
 ### Future Features
 
+1. Home page interactable map:
+   - First option would be to have the map remain how it is currently but add the functionality to click parts of the map to go to different pages on the site.
+   - Second option would be to replace the map with one that embeds something like Google maps to find the location of the zoo itself.
+2. Animal page update:
+   - Additional animals talked about. Currently there is 3 featured, there could easily be 6+ on the animal page.
+   - Interactions and animations could be added to this page also to make it more engaging for users.
+
 ## Technologies Used
 
 ### Languages
