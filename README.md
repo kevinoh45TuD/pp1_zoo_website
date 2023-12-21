@@ -301,6 +301,19 @@ The user will be prompted to return to the home page which they will have an ins
 
 ### Validator
 
+#### W3C CSS
+
+[Link to CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+
+#### HTML validator
+
+[Link to HTML index page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Findex.html)
+[Link to HTML animals page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fanimals.html)
+[Link to HTML gallery page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fgallery.html)
+[Link to HTML contact us page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fcontact-us.html)
+[Link to HTML thank you page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fthank-you.html)
+[Link to HTML 404 page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2F404.html)
+
 ### Lighthouse
 
 ### Wave webaim - Accessability testing
