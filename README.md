@@ -103,6 +103,8 @@ I chose to use releastic images for my website as I felt the imagery needed to b
 
 I also wanted to pick images and videos that had a lot of greenery. This would match well with the color palette of my website.
 
+[Back to top](#central-zoo)
+
 ## Features
 
 ### Navigation Bar
@@ -176,6 +178,8 @@ Both variations have the map featured last.
    - Additional animals talked about. Currently there is 3 featured, there could easily be 6+ on the animal page.
    - Interactions and animations could be added to this page also to make it more engaging for users.
 
+[Back to top](#central-zoo)
+
 ## Technologies Used
 
 ### Languages
@@ -218,6 +222,8 @@ Both variations have the map featured last.
 
 - Freepik was used to source the image used for the map on the Home page [Freepik](https://www.freepik.com)
 
+[Back to top](#central-zoo)
+
 ## Testing
 
 ### Validator
@@ -232,6 +238,8 @@ Both variations have the map featured last.
 | -------------------- | ------------------ | ------------------ | ------------------ | --------------------- |
 | enter details here   | enter details here | enter details here | enter details here | enter details here    |
 
+[Back to top](#central-zoo)
+
 ## Deployment
 
 My website was deployed using 'Github Pages'.
@@ -242,6 +250,8 @@ Steps take to achieve this:
 2. Click 'Settings'
 3. Click 'Pages'
 4. Select 'main' branch to deploy from
+
+[Back to top](#central-zoo)
 
 ## Credits
 
