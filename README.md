@@ -139,9 +139,23 @@ Both variations have the map featured last.
 
 ### Animals
 
+![Picture of animal page large](/doc-media/animals-1280w.png)
+
+![Picture of animal page mobile](/doc-media/animals-480w.png)
+
 ### Gallery
 
+![Picture of orangutan video](/doc-media/galleryvideo-480w.png)
+
+![Picure of gallery page large](/doc-media/galleryphoto-1280w.png)
+
+![Picture of gallery page mobile](/doc-media/galleryphoto-480w.png)
+
 ### Contact Us
+
+![Picture of contact page large](/doc-media/contact-1280w.png)
+
+![Picture of contact page mobile](/doc-media/contact-480w.png)
 
 ### Footer
 
