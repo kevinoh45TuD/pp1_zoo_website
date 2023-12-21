@@ -38,7 +38,7 @@ and what things were used to create this website.
 4. Testing
    - Validator
    - Lighthouse
-   - Wave webaim - Accessability testing
+   - Wave webaim - Accessibility testing
    - Manual Testing
 5. Deployment
 6. Credits
@@ -273,7 +273,7 @@ With each social media link I made sure it opened in a new tab so the user would
 
 ### Extra Pages
 
-This website features two additional pages. A thank you screen for when the user submits a contact form and a 404 page incase the run into an error.
+This website features two additional pages. A thank you screen for when the user submits a contact form and a 404 page incase they run into an error.
 
 ![Picture of thank you page large](/doc-media/thankyou-1280w.png)
 
@@ -452,7 +452,7 @@ There was good results for lighthouse scoring with each page tested for desktop 
 With the mobile test the scores dropped slightly.
 The page with the lowest score generally was the 'gallery' due to the quantity of media files, this could be improved for future projects with lower sized files.
 
-### Wave webaim - Accessability testing
+### Wave webaim - Accessibility testing
 
 Screenshot of WAVE check for index.html :
 
