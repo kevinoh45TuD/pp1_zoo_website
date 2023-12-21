@@ -1,5 +1,7 @@
 # Central Zoo
 
+![Picture of Am I Responsive for home page](/doc-media/responsive-centralzoo.png)
+
 ## Intro
 
 The purpose of this project is to create a website for a fictional zoo.
