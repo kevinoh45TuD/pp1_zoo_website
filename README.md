@@ -173,6 +173,8 @@ When on a small / mobile screen the navigation bar will feature the title of the
 
 Clicking on the burger icon will reveal to the user the remaining anchor links to the other pages.
 
+The nav-bar gives the user the ability to navigate between the pages regardless of where they are.
+
 ### Home
 
 The home page features 3 main things:
@@ -190,6 +192,8 @@ On a larger screen size the general info and opening hours section will be featu
 Whereas on a smaller / mobile screen they will be featured vertically with general info coming first.
 Both variations have the map featured last.
 
+The home page gives the user initial information about the zoo, while it helps the owner entice new customers.
+
 ### Animals
 
 The animals page presents users with information about 3 animals featured at Central Zoo. A lion, an orangutan and a giraffe.
@@ -205,6 +209,8 @@ On a larger screen size the image for the animal alternates from left of the tex
 ![Picture of animal page mobile](/doc-media/animals-480w.png)
 
 On a smaller / mobile screen size the order of information is in a column. Featuring title -> image -> text
+
+The animal page helps teach the user fun information about the animals they might see at Central Zoo.
 
 ### Gallery
 
@@ -228,6 +234,8 @@ The video element fills the entire width of the screen. Users have the controls 
 The video starts mute, although it doesn't have audio it is best practice to default the video to mute.
 The video will not play till the user starts it, but as it is a short video it is set to loop once it finishes.
 
+The gallery page will be exciting for users the possibility of adding additional videos/photos in the future.
+
 ### Contact Us
 
 The Contact Us page features two main functions.
@@ -245,6 +253,8 @@ On a larger screen these two features will be presented side by side.
 
 Whereas on a smaller / mobile screen size they will be presented vertically, with the contact form first.
 
+The contact page provides usefullness to both the user and site owner as it allows them to communicate potential issues.
+
 ### Footer
 
 The footer of the website page remains consistent regardless of screen size.
@@ -257,6 +267,8 @@ The three icons featured are Facebook, Twitter and Youtube.
 ![Picture of highlighted footer icon](/doc-media/footer-64w.png)
 
 On devices that are using a mouse the color of the footer icon changes when hovered over.
+
+With each social media link I made sure it opened in a new tab so the user would still have the Central Zoo tab open as to keep retention.
 
 ### Extra Pages
 
@@ -276,6 +288,10 @@ The 404 page is only visible if the user runs into an error while on the central
 
 The user will be prompted to return to the home page which they will have an instant link for.
 
+The extra pages were created so the users would remain within the familiar Central Zoo style while also having the quick ability to return to either the home page or one of the other pages on the site.
+
+Along with the footer section this provides usefullness to the site owner as they will want the user to keep their site open as much as possible.
+
 ### Future Features
 
 1. Home page interactable map:
@@ -284,6 +300,8 @@ The user will be prompted to return to the home page which they will have an ins
 2. Animal page update:
    - Additional animals talked about. Currently there is 3 featured, there could easily be 6+ on the animal page.
    - Interactions and animations could be added to this page also to make it more engaging for users.
+
+Both future features will engage the users to a greater extent while also providing additional utility.
 
 [Back to top](#central-zoo)
 
@@ -335,6 +353,9 @@ The user will be prompted to return to the home page which they will have an ins
 
 ## Testing
 
+Below I have provided both screenshots and links to various testing for this website. In addition manual testing results are provided at the end.
+No majors issues are present on the website.
+
 ### Validator
 
 #### W3C CSS
@@ -344,6 +365,8 @@ Screenshot of CSS validator results:
 ![CSS validator screenshot](/doc-media/doc-test-images/w3-css-index.png)
 
 [Link to CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+
+The CSS validator passed without issue.
 
 #### HTML validator
 
@@ -381,7 +404,11 @@ Link for Thank you and 404 screenshot and validator links :
 
 - [Link to HTML 404 page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2F404.html)
 
+Each HTML validator passed without errors. There were various info messages with each page in relation to best practices. I will investigate these info messages for future projects.
+
 ### Lighthouse
+
+The lighthouse tests were done using Google Chrome developer tools.
 
 Screenshot of Lighthouse for index.html on Desktop:
 
@@ -411,6 +438,10 @@ Links to find screenshot for Lighthouse on 404.html and thank-you.html on Deskto
 
 - [Lighthouse screenshot thank you desktop](/doc-media/doc-test-images/light-thank-pc.png)
 - [Lighthouse screenshot 404 desktop](/doc-media/doc-test-images/light-404-pc.png)
+
+There was good results for lighthouse scoring with each page tested for desktop test.
+With the mobile test the scores dropped slightly.
+The page with the lowest score generally was the 'gallery' due to the quantity of media files, this could be improved for future projects with lower sized files.
 
 ### Wave webaim - Accessability testing
 
@@ -445,6 +476,9 @@ Thank you:
 - [Screenshot of wave for 404.html](/doc-media/doc-test-images/wave-404.png)
 - [Link to WAVE 404](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/404.html)
 
+The WAVE test initially present an error. The error was due to the method the nav-toggle was created. This issue was fixed and a link to this can be found in the credits.
+No errors are currently present with the WAVE test for each page.
+
 ### Manual Testing
 
 The website was tested on various devices using a different browser for each device.
@@ -456,28 +490,30 @@ The website was tested on various devices using a different browser for each dev
 
 | Feature being tested        | Expected Outcome          | Testing Performed | Result (Pass or fail) |
 | --------------------------- | ------------------------- | ----------------- | --------------------- |
-| Clicking title              | Return to home page       | Tested on desktop | Pass                  |
-|                             |                           | Tested on laptop  | Pass                  |
+| Clicking title              | Return to home page       | Tested on Desktop | Pass                  |
+|                             |                           | Tested on Laptop  | Pass                  |
 |                             |                           | Tested on Pixel 6 | Pass                  |
 |                             |                           | Tested on iPhone  | Pass                  |
 | Click any of nav elements   | Go to respective page     | Tested on Desktop | Pass                  |
-|                             |                           | Tested on laptop  | Pass                  |
+|                             |                           | Tested on Laptop  | Pass                  |
 |                             |                           | Tested on Pixel 6 | Pass                  |
 |                             |                           | Tested on iPhone  | Pass                  |
 | Click on burger icon        | Open nav-bar              | Tested on Pixel 6 | Pass                  |
 |                             |                           | Tested on iPhone  | Pass                  |
 | Click on video controls     | Interact with video       | Tested on Desktop | Pass                  |
-|                             |                           | Tested on laptop  | Pass                  |
+|                             |                           | Tested on Laptop  | Pass                  |
 |                             |                           | Tested on Pixel 6 | Pass                  |
 |                             |                           | Tested on iPhone  | Pass                  |
 | Submit form                 | Brought to thank-you page | Tested on Desktop | Pass                  |
-|                             |                           | Tested on laptop  | Pass                  |
+|                             |                           | Tested on Laptop  | Pass                  |
 |                             |                           | Tested on Pixel 6 | Pass                  |
 |                             |                           | Tested on iPhone  | Pass                  |
 | Click 'Return to home page' | Return to index/home page | Tested on Desktop | Pass                  |
-|                             |                           | Tested on laptop  | Pass                  |
+|                             |                           | Tested on Laptop  | Pass                  |
 |                             |                           | Tested on Pixel 6 | Pass                  |
 |                             |                           | Tested on iPhone  | Pass                  |
+
+No issues were encountered when manually testing website.
 
 [Back to top](#central-zoo)
 
