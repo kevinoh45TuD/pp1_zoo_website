@@ -157,11 +157,25 @@ On a smaller / mobile screen size the order of information is in a column. Featu
 
 ### Gallery
 
-![Picture of orangutan video](/doc-media/galleryvideo-480w.png)
+The gallery page features additional pieces of media for Central Zoo.
+This page contains 1 video and 6 images.
 
 ![Picure of gallery page large](/doc-media/galleryphoto-1280w.png)
 
+With a larger screen size the 6 images will arrange to 3 columns and 2 rows.
+
+At a medium screen size the images will arrange to 2 columns and 3 rows.
+
 ![Picture of gallery page mobile](/doc-media/galleryphoto-480w.png)
+
+At a smaller / mobile screen size the images will arrange into a single column and alternate between tall and short images.
+
+![Picture of orangutan video](/doc-media/galleryvideo-480w.png)
+
+Regardless of screen size the video is featured at the top of the page directly under the header.
+The video element fills the entire width of the screen. Users have the controls to play and fullscreen the video.
+The video starts mute, although it doesn't have audio it is best practice to default the video to mute.
+The video will not play till the user starts it, but as it is a short video it is set to loop once it finishes.
 
 ### Contact Us
 
