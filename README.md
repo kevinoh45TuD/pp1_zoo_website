@@ -122,6 +122,21 @@ Clicking on the burger icon will reveal to the user the remaing anchor links to 
 
 ### Home
 
+The home page features 3 main things:
+
+- General Info, text to welcome the user and explain the website.
+- Opening hours, showing the user when the zoo will be open on different days.
+- Map, an image showing what attractions are featured at the zoo and where they are in relation to other things.
+
+![Picture of home screen large](/doc-media/home-1280w.png)
+
+On a larger screen size the general info and opening hours section will be feature horizontally.
+
+![Picture of home screen mobile](/doc-media/home-480w.png)
+
+Whereas on mobile the will be featured vertically with general info coming first.
+Both variations have the map featured last.
+
 ### Animals
 
 ### Gallery
