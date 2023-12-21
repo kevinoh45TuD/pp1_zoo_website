@@ -316,6 +316,21 @@ The user will be prompted to return to the home page which they will have an ins
 
 ### Lighthouse
 
+- ![Lighthouse screenshot index desktop](/doc-media/doc-test-images/light-home-pc.png)
+- [Lighthouse screenshot index mobile](/doc-media/doc-test-images/light-home-mobile.png)
+
+- ![Lighthouse screenshot animals desktop](/doc-media/doc-test-images/light-animal-pc.png)
+- [Lighthouse screenshot animals mobile](/doc-media/doc-test-images/light-animal-mobile.png)
+
+- ![Lighthouse screenshot gallery desktop](/doc-media/doc-test-images/light-gallery-pc.png)
+- [Lighthouse screenshot gallery mobile](/doc-media/doc-test-images/light-gallery-mobile.png)
+
+- ![Lighthouse screenshot contact us desktop](/doc-media/doc-test-images/light-contact-pc.png)
+- [Lighthouse screenshot contact us mobile](/doc-media/doc-test-images/light-contact-mobile.png)
+
+- [Lighthouse screenshot thank you desktop](/doc-media/doc-test-images/light-thank-pc.png)
+- [Lighthouse screenshot 404 desktop](/doc-media/doc-test-images/light-404-pc.png)
+
 ### Wave webaim - Accessability testing
 
 - [Link to WAVE Home](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/index.html)
