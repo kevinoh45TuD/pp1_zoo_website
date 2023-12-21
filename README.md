@@ -53,7 +53,7 @@ Here I have outlined some user stories of things the user might want from this w
 - As a user, I want to learn more about the animals I will see.
 - As a user, I want to see photos of animals.
 - As a user, I want to contact the zoo about a query.
-- As a user, I want to the address for Central Zoo.
+- As a user, I want to find the address for Central Zoo.
 
 ### Site Owner Goals
 
@@ -378,11 +378,35 @@ Links to find screenshot for Lighthouse on 404.html and thank-you.html on Deskto
 
 ### Wave webaim - Accessability testing
 
-- [Link to WAVE Home](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/index.html)
+Screenshot of WAVE check for index.html :
+
+![Screenshot of wave for index.html](/doc-media/doc-test-images/wave-index.png)
+
+[Link to WAVE Home](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/index.html)
+
+Animals:
+
+- [Screenshot of wave for animals.html](/doc-media/doc-test-images/wave-animals.png)
 - [Link to WAVE Animals](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/animals.html)
+
+Gallery:
+
+- [Screenshot of wave for gallery.html](/doc-media/doc-test-images/wave-gallery.png)
 - [Link to WAVE Gallery](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/gallery.html)
+
+Contact Us:
+
+- [Screenshot of wave for contact-us.html](/doc-media/doc-test-images/wave-contactus.png)
 - [Link to WAVE Contact Us](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/contact-us.html)
+
+Thank you:
+
+- [Screenshot of wave for thank-you.html](/doc-media/doc-test-images/wave-thankyou.png)
 - [Link to WAVE Thank you](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/thank-you.html)
+
+404:
+
+- [Screenshot of wave for 404.html](/doc-media/doc-test-images/wave-404.png)
 - [Link to WAVE 404](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/404.html)
 
 ### Manual Testing
