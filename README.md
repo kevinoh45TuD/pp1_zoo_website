@@ -141,6 +141,12 @@ Both variations have the map featured last.
 
 ### Animals
 
+The animals page presents users with information about 3 animals featured at Central Zoo. A lion, an orangutan and a giraffe.
+Each animal is given a title, image and piece of text with facts about the animal.
+
+The information found in the text was sourced from [KidzSearch](https://wiki.kidzsearch.com/wiki/Main_Page)
+Links for each animal specifically can be found in the credits section.
+
 ![Picture of animal page large](/doc-media/animals-1280w.png)
 
 ![Picture of animal page mobile](/doc-media/animals-480w.png)
