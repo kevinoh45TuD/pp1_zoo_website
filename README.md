@@ -454,12 +454,30 @@ The website was tested on various devices using a different browser for each dev
 - Pixel 6 : Google Chrome
 - iPhone 11 : Safari
 
-| Feature being tested | Expected Outcome    | Testing Performed | Result (Pass or fail) |
-| -------------------- | ------------------- | ----------------- | --------------------- |
-| Clicking title       | Return to home page | Tested on desktop | Pass                  |
-|                      |                     | Tested on laptop  | Pass                  |
-|                      |                     | Tested on Pixel 6 | Pass                  |
-|                      |                     | Tested on iPhone  | Pass                  |
+| Feature being tested        | Expected Outcome          | Testing Performed | Result (Pass or fail) |
+| --------------------------- | ------------------------- | ----------------- | --------------------- |
+| Clicking title              | Return to home page       | Tested on desktop | Pass                  |
+|                             |                           | Tested on laptop  | Pass                  |
+|                             |                           | Tested on Pixel 6 | Pass                  |
+|                             |                           | Tested on iPhone  | Pass                  |
+| Click any of nav elements   | Go to respective page     | Tested on Desktop | Pass                  |
+|                             |                           | Tested on laptop  | Pass                  |
+|                             |                           | Tested on Pixel 6 | Pass                  |
+|                             |                           | Tested on iPhone  | Pass                  |
+| Click on burger icon        | Open nav-bar              | Tested on Pixel 6 | Pass                  |
+|                             |                           | Tested on iPhone  | Pass                  |
+| Click on video controls     | Interact with video       | Tested on Desktop | Pass                  |
+|                             |                           | Tested on laptop  | Pass                  |
+|                             |                           | Tested on Pixel 6 | Pass                  |
+|                             |                           | Tested on iPhone  | Pass                  |
+| Submit form                 | Brought to thank-you page | Tested on Desktop | Pass                  |
+|                             |                           | Tested on laptop  | Pass                  |
+|                             |                           | Tested on Pixel 6 | Pass                  |
+|                             |                           | Tested on iPhone  | Pass                  |
+| Click 'Return to home page' | Return to index/home page | Tested on Desktop | Pass                  |
+|                             |                           | Tested on laptop  | Pass                  |
+|                             |                           | Tested on Pixel 6 | Pass                  |
+|                             |                           | Tested on iPhone  | Pass                  |
 
 [Back to top](#central-zoo)
 
