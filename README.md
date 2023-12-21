@@ -316,17 +316,31 @@ The user will be prompted to return to the home page which they will have an ins
 
 ### Lighthouse
 
-- ![Lighthouse screenshot index desktop](/doc-media/doc-test-images/light-home-pc.png)
-- [Lighthouse screenshot index mobile](/doc-media/doc-test-images/light-home-mobile.png)
+Screenshot of Lighthouse for index.html on Desktop:
 
-- ![Lighthouse screenshot animals desktop](/doc-media/doc-test-images/light-animal-pc.png)
-- [Lighthouse screenshot animals mobile](/doc-media/doc-test-images/light-animal-mobile.png)
+![Lighthouse screenshot index desktop](/doc-media/doc-test-images/light-home-pc.png)
 
-- ![Lighthouse screenshot gallery desktop](/doc-media/doc-test-images/light-gallery-pc.png)
-- [Lighthouse screenshot gallery mobile](/doc-media/doc-test-images/light-gallery-mobile.png)
+[Lighthouse screenshot index mobile](/doc-media/doc-test-images/light-home-mobile.png)
 
-- ![Lighthouse screenshot contact us desktop](/doc-media/doc-test-images/light-contact-pc.png)
-- [Lighthouse screenshot contact us mobile](/doc-media/doc-test-images/light-contact-mobile.png)
+Screenshot of Lighthouse for animals.html on Desktop:
+
+![Lighthouse screenshot animals desktop](/doc-media/doc-test-images/light-animal-pc.png)
+
+[Lighthouse screenshot animals mobile](/doc-media/doc-test-images/light-animal-mobile.png)
+
+Screenshot of Lighthouse for gallery.html on Desktop:
+
+![Lighthouse screenshot gallery desktop](/doc-media/doc-test-images/light-gallery-pc.png)
+
+[Lighthouse screenshot gallery mobile](/doc-media/doc-test-images/light-gallery-mobile.png)
+
+Screenshot of Lighthouse for contact-us.html on Desktop:
+
+![Lighthouse screenshot contact us desktop](/doc-media/doc-test-images/light-contact-pc.png)
+
+[Lighthouse screenshot contact us mobile](/doc-media/doc-test-images/light-contact-mobile.png)
+
+Links to find screenshot for Lighthouse on 404.html and thank-you.html on Desktop:
 
 - [Lighthouse screenshot thank you desktop](/doc-media/doc-test-images/light-thank-pc.png)
 - [Lighthouse screenshot 404 desktop](/doc-media/doc-test-images/light-404-pc.png)
