@@ -356,6 +356,8 @@ Both future features will engage the users to a greater extent while also provid
 
 - KidzSearch was used to source information for the text sections of the animals page [wiki.Kidzsearch](https://wiki.kidzsearch.com/wiki/Main_Page)
 
+- Website used for initial image of this README [AmIResponsive](https://ui.dev/amiresponsive)
+
 [Back to top](#central-zoo)
 
 ## Testing
