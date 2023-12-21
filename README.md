@@ -189,9 +189,21 @@ The video will not play till the user starts it, but as it is a short video it i
 
 ### Extra Pages
 
+This website features two additional pages. A thank screen for when the user submits a contact form and a 404 page incase the run into an error.
+
 ![Picture of thank you page large](/doc-media/thankyou-1280w.png)
 
+The thank you page is only visible if the user submits a contact form, alternatively it can be found by inputting the page address directly.
+[Link to thank you page](https://kevinoh45tud.github.io/pp1_zoo_website/thank-you.html)
+
+The user will be prompted to go to another page on the website. They will also have an instant link to return to the home page.
+
 ![Picture of 404 page large](/doc-media/404-1280w.png)
+
+The 404 page is only visible if the user runs into an error while on the central zoo website. Alternatively it can be found by inputting the page address directly.
+[Link to 404 page](https://kevinoh45tud.github.io/pp1_zoo_website/404.html)
+
+The user will be prompted to return to the home page which they will have an instant link for.
 
 ### Future Features
 
