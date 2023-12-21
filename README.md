@@ -111,7 +111,7 @@ I also wanted to pick images and videos that had a lot of greenery. This would m
 
 ![Picture of full nav-bar](/doc-media/nav-1280w.png)
 
-My navigation bar features the title of the website along with anchors to the 4 main pages that will be discussed below.
+The navigation bar features the title of the website along with anchors to the 4 main pages that will be discussed below.
 Clicking the title or 'home' on any page will have the same function of bringing the user to the home page / index.html
 
 ![Picture of highlighted nav-bar](/doc-media/header-640w.png)
@@ -141,15 +141,15 @@ On a larger screen size the general info and opening hours section will be featu
 
 ![Picture of home screen mobile](/doc-media/home-480w.png)
 
-Whereas on mobile the will be featured vertically with general info coming first.
+Whereas on a smaller / mobile screen they will be featured vertically with general info coming first.
 Both variations have the map featured last.
 
 ### Animals
 
 The animals page presents users with information about 3 animals featured at Central Zoo. A lion, an orangutan and a giraffe.
-Each animal is given a title, image and piece of text with facts about the animal.
+Each animal is given a title, an image and piece of a text with facts about the animal.
 
-The information found in the text was sourced from [KidzSearch](https://wiki.kidzsearch.com/wiki/Main_Page)
+The information found in the text was sourced from [KidzSearch](https://wiki.kidzsearch.com/wiki/Main_Page).
 Links for each animal specifically can be found in the credits section.
 
 ![Picture of animal page large](/doc-media/animals-1280w.png)
@@ -195,15 +195,15 @@ The footer of the website page remains consistent regardless of screen size.
 ![Picture of footer large](/doc-media/footer-1280w.png)
 
 It features 3 icons that when clicked on will open a new tab to the respective social media website.
-The three icons feature are Facebook, Twitter and Youtube.
+The three icons featured are Facebook, Twitter and Youtube.
 
 ![Picture of highlighted footer icon](/doc-media/footer-64w.png)
 
-On devices that are using a mouse the color of the footer icon changed when hovered over.
+On devices that are using a mouse the color of the footer icon changes when hovered over.
 
 ### Extra Pages
 
-This website features two additional pages. A thank screen for when the user submits a contact form and a 404 page incase the run into an error.
+This website features two additional pages. A thank you screen for when the user submits a contact form and a 404 page incase the run into an error.
 
 ![Picture of thank you page large](/doc-media/thankyou-1280w.png)
 
@@ -296,7 +296,7 @@ The user will be prompted to return to the home page which they will have an ins
 
 My website was deployed using 'Github Pages'.
 
-Steps take to achieve this:
+Steps taken to achieve this:
 
 1. Go to repository page
 2. Click 'Settings'
@@ -346,5 +346,6 @@ Steps take to achieve this:
 
 - An article on GitHub was used to help with creating this README doc [Article](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - An article outlining a CSS fix for error created from nav toggle [Article](https://css-tricks.com/inclusively-hidden/)
+- An article used to help with creating more responsive site images [Article](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 
 [Back to top](#central-zoo)
