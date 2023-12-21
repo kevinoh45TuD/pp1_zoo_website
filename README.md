@@ -159,6 +159,8 @@ Both variations have the map featured last.
 
 ### Footer
 
+![Picture of footer large](/doc-media/footer-1280w.png)
+
 ### Extra Pages
 
 ### Future Features
