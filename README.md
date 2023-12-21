@@ -163,6 +163,10 @@ Both variations have the map featured last.
 
 ### Extra Pages
 
+![Picture of thank you page large](/doc-media/thankyou-1280w.png)
+
+![Picture of 404 page large](/doc-media/404-1280w.png)
+
 ### Future Features
 
 1. Home page interactable map:
