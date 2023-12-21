@@ -9,6 +9,8 @@ The goal of this website was to create it using HTML and CSS.
 Below I have outlined different design choices, features of the pages
 and what things were used to create this website.
 
+[Link to live website](https://kevinoh45tud.github.io/pp1_zoo_website/index.html)
+
 ## Table of Contents
 
 1. UX
@@ -128,6 +130,13 @@ There are four icons featured on this website:
 
 I felt that these icons were both fitting for this website as they match the simplistic style.
 While also being neccessary to emulate linking to the zoos potential other social media pages.
+
+The image used for my favicon was created by myself using FireAlpaca.
+
+![Picture of favicon](/assets/zoo-favicon/zoo-favicon-64x64.png)
+
+I chose to create something that was simple and using a green color so that it would be clear and readible at small sizes.
+It is a simple 'Z' shape.
 
 ### Imagery
 
