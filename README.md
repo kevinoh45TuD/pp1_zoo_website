@@ -307,23 +307,23 @@ The user will be prompted to return to the home page which they will have an ins
 
 #### HTML validator
 
-[Link to HTML index page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Findex.html)
-[Link to HTML animals page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fanimals.html)
-[Link to HTML gallery page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fgallery.html)
-[Link to HTML contact us page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fcontact-us.html)
-[Link to HTML thank you page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fthank-you.html)
-[Link to HTML 404 page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2F404.html)
+- [Link to HTML index page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Findex.html)
+- [Link to HTML animals page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fanimals.html)
+- [Link to HTML gallery page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fgallery.html)
+- [Link to HTML contact us page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fcontact-us.html)
+- [Link to HTML thank you page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fthank-you.html)
+- [Link to HTML 404 page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2F404.html)
 
 ### Lighthouse
 
 ### Wave webaim - Accessability testing
 
-[Link to WAVE Home](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/index.html)
-[Link to WAVE Animals](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/animals.html)
-[Link to WAVE Gallery](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/gallery.html)
-[Link to WAVE Contact Us](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/contact-us.html)
-[Link to WAVE Thank you](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/thank-you.html)
-[Link to WAVE 404](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/404.html)
+- [Link to WAVE Home](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/index.html)
+- [Link to WAVE Animals](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/animals.html)
+- [Link to WAVE Gallery](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/gallery.html)
+- [Link to WAVE Contact Us](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/contact-us.html)
+- [Link to WAVE Thank you](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/thank-you.html)
+- [Link to WAVE 404](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/404.html)
 
 ### Manual Testing
 
