@@ -280,7 +280,12 @@ main {
 
 }
 
-#animal-photo {
+#animal-video {
+    width: 100%;
+    height: 50%;
+}
+
+.animal-photos {
     border: 3px solid #005200;
 
     width: 100%;
