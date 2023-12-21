@@ -148,7 +148,7 @@ When on a small / mobile screen the navigation bar will feature the title of the
 
 ![Picture of mobile nav-bar open](/doc-media/navopen-480w.png)
 
-Clicking on the burger icon will reveal to the user the remaing anchor links to the other pages.
+Clicking on the burger icon will reveal to the user the remaining anchor links to the other pages.
 
 ### Home
 
@@ -207,9 +207,20 @@ The video will not play till the user starts it, but as it is a short video it i
 
 ### Contact Us
 
+The Contact Us page features two main functions.
+
+1. A contact form for the user to get in touch with the zoo immediately.
+2. The contact details of the zoo including: phone, email and address.
+
+Both of these features will provide the user with the ability to contact the zoo how they choose.
+
 ![Picture of contact page large](/doc-media/contact-1280w.png)
 
+On a larger screen these two features will be presented side by side.
+
 ![Picture of contact page mobile](/doc-media/contact-480w.png)
+
+Whereas on a smaller / mobile screen size they will be presented vertically, with the contact form first.
 
 ### Footer
 
