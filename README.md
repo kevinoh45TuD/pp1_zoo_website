@@ -228,6 +228,8 @@ Links for each animal specifically can be found in the credits section.
 
 - Freepik was used to source the image used for the map on the Home page [Freepik](https://www.freepik.com)
 
+- KidzSearch was used to source information for the text sections of the animals page [wiki.Kidzsearch](https://wiki.kidzsearch.com/wiki/Main_Page)
+
 [Back to top](#central-zoo)
 
 ## Testing
@@ -276,6 +278,10 @@ Steps take to achieve this:
 - Lion picture used on 'Animal' page [Lion photo](https://www.pexels.com/photo/close-up-photo-of-lion-1598377/)
 - Orangutan picture used on 'Animal' page [Orangutan photo](https://www.pexels.com/photo/orangutan-eating-fruit-near-funny-baby-primate-hanging-on-liana-825595/)
 - Giraffe picture used on 'Animal' page [Giraffe photo](https://www.pexels.com/photo/selective-focus-photography-of-giraffe-head-797643/)
+
+- Lion information from Kidzsearch [Lion text source](https://wiki.kidzsearch.com/wiki/Lion)
+- Orangutan information from Kidzsearch [Orangutan text source](https://wiki.kidzsearch.com/wiki/Giraffe)
+- Giraffe information from Kidzsearch [Giraffe text source](https://wiki.kidzsearch.com/wiki/Orangutan)
 
 #### Gallery Page
 
