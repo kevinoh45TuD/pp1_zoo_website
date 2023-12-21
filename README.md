@@ -447,9 +447,19 @@ Thank you:
 
 ### Manual Testing
 
-| Feature being tested | Expected Outcome   | Testing Performed  | Actual Outcome     | Result (Pass or fail) |
-| -------------------- | ------------------ | ------------------ | ------------------ | --------------------- |
-| enter details here   | enter details here | enter details here | enter details here | enter details here    |
+The website was tested on various devices using a different browser for each device.
+
+- Desktop Computer : Opera
+- Laptop : Microsoft Edge
+- Pixel 6 : Google Chrome
+- iPhone 11 : Safari
+
+| Feature being tested | Expected Outcome    | Testing Performed | Result (Pass or fail) |
+| -------------------- | ------------------- | ----------------- | --------------------- |
+| Clicking title       | Return to home page | Tested on desktop | Pass                  |
+|                      |                     | Tested on laptop  | Pass                  |
+|                      |                     | Tested on Pixel 6 | Pass                  |
+|                      |                     | Tested on iPhone  | Pass                  |
 
 [Back to top](#central-zoo)
 
