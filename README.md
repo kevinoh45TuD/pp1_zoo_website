@@ -303,15 +303,46 @@ The user will be prompted to return to the home page which they will have an ins
 
 #### W3C CSS
 
+Screenshot of CSS validator results:
+
+![CSS validator screenshot](/doc-media/doc-test-images/w3-css-index.png)
+
 [Link to CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
 #### HTML validator
 
-- [Link to HTML index page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Findex.html)
-- [Link to HTML animals page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fanimals.html)
-- [Link to HTML gallery page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fgallery.html)
-- [Link to HTML contact us page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fcontact-us.html)
+Screenshot of HTML validator for index.html :
+
+![Screenshot validator html index](/doc-media/doc-test-images/w3-html-index.png)
+
+[Link to HTML index page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Findex.html)
+
+Screenshot of HTML validator for animals.html :
+
+![Screenshot validator html index](/doc-media/doc-test-images/w3-html-animals.png)
+
+[Link to HTML animals page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fanimals.html)
+
+Screenshot of HTML validator for gallery.html :
+
+![Screenshot validator html index](/doc-media/doc-test-images/w3-html-gallery.png)
+
+[Link to HTML gallery page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fgallery.html)
+
+Screenshot of HTML validator for contact-us.html :
+
+![Screenshot validator html index](/doc-media/doc-test-images/w3-html-contactus.png)
+
+[Link to HTML contact us page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fcontact-us.html)
+
+Link for Thank you and 404 screenshot and validator links :
+
+- [Screenshot validator html thank-you.html](/doc-media/doc-test-images/w3-html-thankyou.png)
+
 - [Link to HTML thank you page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2Fthank-you.html)
+
+- [Screenshot validator html 404.html](/doc-media/doc-test-images/w3-html-404.png)
+
 - [Link to HTML 404 page validator](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fkevinoh45tud.github.io%2Fpp1_zoo_website%2F404.html)
 
 ### Lighthouse
