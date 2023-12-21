@@ -149,7 +149,11 @@ Links for each animal specifically can be found in the credits section.
 
 ![Picture of animal page large](/doc-media/animals-1280w.png)
 
+On a larger screen size the image for the animal alternates from left of the text to right going down the page.
+
 ![Picture of animal page mobile](/doc-media/animals-480w.png)
+
+On a smaller / mobile screen size the order of information is in a column. Featuring title -> image -> text
 
 ### Gallery
 
