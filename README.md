@@ -112,8 +112,22 @@ Here is the final color palette together using Coolors once more:
 I used [Google Fonts](https://fonts.google.com) to source the fonts used for this website.
 
 For headings and website title I used [Oswald](https://fonts.google.com/specimen/Oswald)
+I choose this font for the purpose as it would make these elements of the page stand out compared to the more rounded look of other aspects.
 
 For general text and nav bar I used [Varela Round](https://fonts.google.com/specimen/Varela+Round)
+I choose this font for this purpose as it would be inviting to the users and match well with the rounding on the images.
+
+I used [FontAwesome](https://fontawesome.com) to implement icons into the website.
+
+There are four icons featured on this website:
+
+1. Burger Icon, to open nav-bar on mobile.
+2. Facebook Icon, opens facebook page on new tab.
+3. Twitter Icon, opens twitter page on new tab.
+4. Youtube Icon, opens youtube page on new tab.
+
+I felt that these icons were both fitting for this website as they match the simplistic style.
+While also being neccessary to emulate linking to the zoos potential other social media pages.
 
 ### Imagery
 
