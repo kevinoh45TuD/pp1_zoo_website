@@ -305,6 +305,13 @@ The user will be prompted to return to the home page which they will have an ins
 
 ### Wave webaim - Accessability testing
 
+[Link to WAVE Home](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/index.html)
+[Link to WAVE Animals](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/animals.html)
+[Link to WAVE Gallery](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/gallery.html)
+[Link to WAVE Contact Us](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/contact-us.html)
+[Link to WAVE Thank you](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/thank-you.html)
+[Link to WAVE 404](https://wave.webaim.org/report#/https://kevinoh45tud.github.io/pp1_zoo_website/404.html)
+
 ### Manual Testing
 
 | Feature being tested | Expected Outcome   | Testing Performed  | Actual Outcome     | Result (Pass or fail) |
